@@ -6,3 +6,5 @@ hello git!
 hello git!
 hot fix first modify
 master
+hot fix
+
